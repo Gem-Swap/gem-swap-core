@@ -1,6 +1,6 @@
-# PantherSwap Factory
+# WakandaSwap Factory
 
-In-depth documentation on PancakeSwap is available at [docs.pantherswap.com](https://docs.pantherswap.com/).
+In-depth documentation on PancakeSwap is available at [docs.wakandaswap.net](https://docs.wakandaswap.net/).
 
 # Local Development
 

@@ -1,8 +1,8 @@
 pragma solidity =0.5.16;
 
-import '../PantherERC20.sol';
+import '../WakandaERC20.sol';
 
-contract ERC20 is PantherERC20 {
+contract ERC20 is WakandaERC20 {
     constructor(uint _totalSupply) public {
         _mint(msg.sender, _totalSupply);
     }
