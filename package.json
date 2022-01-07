@@ -1,5 +1,5 @@
 {
-  "name": "@gemswap-libs/wakanda-swap-core",
+  "name": "@gemswap-libs/gem-swap-core",
   "description": "Core contracts for the gem protocol",
   "version": "0.1.0",
   "homepage": "https://gemswap.org",
