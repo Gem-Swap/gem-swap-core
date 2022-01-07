@@ -1,6 +1,6 @@
-# WakandaSwap Factory
+# GemSwap Factory
 
-In-depth documentation on PancakeSwap is available at [docs.wakandaswap.net](https://docs.wakandaswap.net/).
+In-depth documentation on PancakeSwap is available at [docs.gemswap.org](https://docs.gemswap.org/).
 
 # Local Development
 
