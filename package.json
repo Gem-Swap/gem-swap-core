@@ -7,9 +7,6 @@
     "type": "git",
     "url": "https://github.com/Gem-Swap/gem-swap-core.git"
   },
-  "publishConfig": {
-    "registry": "http://registry.npmjs.org/"
-  },
   "files": [
     "contracts",
     "build"
